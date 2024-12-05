@@ -1,6 +1,6 @@
 ---
-title: Kokodayo Web Portal
-author: Kokodayo
+# title: Kokodayo Web Portal
+# author: Kokodayo
 ---
 Welcome!
 ---

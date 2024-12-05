@@ -30,7 +30,7 @@ twitter_username: KokodayoCN
 github_username:  Smith-Zhou-CN
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 author: Kokodayo
 plugins:
   - jekyll-feed

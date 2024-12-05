@@ -31,7 +31,7 @@ bluesky_account: kokodayo.us
 # github_username: Smith-Zhou-CN
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 author: Kokodayo
 plugins:
   - jekyll-feed

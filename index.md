@@ -1,7 +1,4 @@
 ---
-# title: Kokodayo Web Portal
-# author: Kokodayo
----
 Welcome!
 ---
 This is the personal web portal for Kokodayo.  

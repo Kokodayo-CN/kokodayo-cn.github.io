@@ -16,4 +16,11 @@ p {
     margin-bottom: 5px;
 }
 </style>
+[<img src="./assets/icons/reddit.svg" width="40" height="40"> u/Smith_ZHOU](https://www.reddit.com/user/Smith_ZHOU "Reddit: u/Smith_ZHOU")  
+<style>
+p {
+    margin-bottom: 5px;
+}
+</style>
 [<img src="./assets/icons/bilibili.svg" width="40" height="40"> Kokodayo-desu](https://space.bilibili.com/89966890 "Bilibili: Kokodayo-desu")  
+

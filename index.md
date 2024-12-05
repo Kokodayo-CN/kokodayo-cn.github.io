@@ -10,4 +10,10 @@ p {
     margin-bottom: 5px;
 }
 </style>
-[<img src="./assets/icons/bsky.svg" width="40" height="40"> @kokodayo.us](https://bsky.app/profile/kokodayo.us "Bluesky: @kokodayo.us")
+[<img src="./assets/icons/bsky.svg" width="40" height="40"> @kokodayo.us](https://bsky.app/profile/kokodayo.us "Bluesky: @kokodayo.us")  
+<style>
+p {
+    margin-bottom: 5px;
+}
+</style>
+[<img src="./assets/icon/bilibili.svg" width="40" height="40"> Kokodayo-desu](https://space.bilibili.com/89966890 "Bilibili: Kokodayo-desu")  

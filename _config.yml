@@ -34,7 +34,7 @@ theme: minima
 author: Kokodayo
 plugins:
   - jekyll-feed
-exclude: _posts
+exclude: ["_posts"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

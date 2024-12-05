@@ -31,6 +31,8 @@ bluesky_account: kokodayo.us
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 author: Kokodayo
 plugins:
   - jekyll-feed

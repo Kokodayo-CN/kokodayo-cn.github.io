@@ -16,4 +16,4 @@ p {
     margin-bottom: 5px;
 }
 </style>
-[<img src="./assets/icon/bilibili.svg" width="40" height="40"> Kokodayo-desu](https://space.bilibili.com/89966890 "Bilibili: Kokodayo-desu")  
+[<img src="./assets/icons/bilibili.svg" width="40" height="40"> Kokodayo-desu](https://space.bilibili.com/89966890 "Bilibili: Kokodayo-desu")  

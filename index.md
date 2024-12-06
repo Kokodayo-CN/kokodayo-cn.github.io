@@ -10,7 +10,7 @@ p {
     margin-bottom: 5px;
 }
 </style>
-[<img src="./assets/icons/bsky.svg" width="40px" height="40px">](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us") [@kokodayo.us](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us")&emsp;&nbsp;[<img src="./assets/icons/reddit.svg" width="40px" height="40px">](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU") [u/Smith_ZHOU](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU")  
+[<img src="./assets/icons/bsky.svg" width="40px" height="40px">](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us") [@kokodayo.us](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us")&emsp;&ensp;[<img src="./assets/icons/reddit.svg" width="40px" height="40px">](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU") [u/Smith_ZHOU](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU")  
 <style>
 p {
     margin-bottom: 5px;

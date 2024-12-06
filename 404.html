@@ -37,11 +37,7 @@ layout: base
     display: flex;
     justify-content: center;
     align-items: center;
-    if (isMobile()){
-      height: 180px;
-    } else {
-      height: 360px;
-    }
+    height: 360px;
   }
 </style>
 
@@ -52,7 +48,7 @@ layout: base
       return regex.test(navigator.userAgent);
     }
   
-  <video id="peaceful music" class="video-js vjs-default-skin" width=isMobile() ? 320px : 640px height=isMobile() ? 180px : 360px src="./assets/porn/peaceful_music.mp4" type='video/mp4' controls/>
+  <video id="peaceful music" class="video-js vjs-default-skin" width=640px height=360px src="./assets/porn/peaceful_music.mp4" type='video/mp4' controls/>
   </video>
   <script> 
     var video = document.getElementById("peaceful music");

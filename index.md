@@ -16,5 +16,5 @@ p {
     margin-bottom: 5px;
 }
 </style>
-[<img src="./assets/icons/bilibili.svg" width="40" height="40">](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu") [Kokodayo-desu](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu")&emsp;[<img src="./assets/icons/youtube.svg" width="40" height = "40">](https://youtube.kokodayo.us "YouTube: Kokodayo CN") [Kokodayo CN](https://youtube.kokodayo.us "YouTube: Kokodayo CN")  
+[<img src="./assets/icons/bilibili.svg" width="40" height="40">](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu") [Kokodayo-desu](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu")&emsp;[<img src="./assets/icons/youtube.svg" width="40" height="40">](https://youtube.kokodayo.us "YouTube: Kokodayo CN") [Kokodayo CN](https://youtube.kokodayo.us "YouTube: Kokodayo CN")  
 

@@ -10,11 +10,11 @@ p {
     margin-bottom: 5px;
 }
 </style>
-[<img src="./assets/icons/bsky.svg" width="40px" height="40px">](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us") [@kokodayo.us](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us")&emsp;&ensp;[<img src="./assets/icons/reddit.svg" width="40px" height="40px">](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU") [u/Smith_ZHOU](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU")  
+[<img src="./assets/icons/bsky.svg" width="40px" height="40px">](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us") [@kokodayo.us](https://bluesky.kokodayo.us "Bluesky: @kokodayo.us")&#9;[<img src="./assets/icons/reddit.svg" width="40px" height="40px">](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU") [u/Smith_ZHOU](https://reddit.kokodayo.us "Reddit: u/Smith_ZHOU")  
 <style>
 p {
     margin-bottom: 5px;
 }
 </style>
-[<img src="./assets/icons/bilibili.svg" width="40px" height="40px">](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu") [Kokodayo-desu](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu")&emsp;[<img src="./assets/icons/youtube.svg" width="40px" height="40px">](http://youtube.kokodayo.us "YouTube: Kokodayo CN") [Kokodayo CN](http://youtube.kokodayo.us "YouTube: Kokodayo CN")  
+[<img src="./assets/icons/bilibili.svg" width="40px" height="40px">](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu") [Kokodayo-desu](https://bilibili.kokodayo.us "Bilibili: Kokodayo-desu")&#9;[<img src="./assets/icons/youtube.svg" width="40px" height="40px">](http://youtube.kokodayo.us "YouTube: Kokodayo CN") [Kokodayo CN](http://youtube.kokodayo.us "YouTube: Kokodayo CN")  
 

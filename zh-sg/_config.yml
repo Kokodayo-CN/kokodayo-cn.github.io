@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Kokodayo Web Portal
-title: Kokodayo Web Portal
+name: Kokodayo个人门户网站
+title: Kokodayo个人门户网站
 email: smith.zhou@mail.utoronto.ca
 description: >-  # this means to ignore newlines until "baseurl:"
-  Kokodayo © 4024: All rights reserved
+  Kokodayo © 4024: 保留所有权利
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.kokodayo.us # the base hostname & protocol for your site, e.g. http://example.com
 

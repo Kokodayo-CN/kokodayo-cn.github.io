@@ -1,7 +1,7 @@
 ---
 title: Bienvenue!
 ---
-Ceci est le portail Web personnel de Kokodayo.  
+Ceci est le portail web personnel de Kokodayo.  
 Pour plus d'informations, veuillez accéder aux liens des médias sociaux ci-dessous.  
 <br>
 [<img src="./assets/icons/twitter.svg" width="40px" height="40px">](http://twitter.kokodayo.us "Twitter/X: @KokodayoCN") [<img src="./assets/icons/x.svg" width="40px" height="40px">](https://x.kokodayo.us "Twitter/X: @KokodayoCN") [@KokodayoCN](http://twitter.kokodayo.us "Twitter/X: @KokodayoCN")  

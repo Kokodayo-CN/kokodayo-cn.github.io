@@ -1,6 +1,5 @@
 ---
 title: Welcome!
-author: TEST
 ---
 This is the personal web portal for Kokodayo.  
 For more information, please access the social media links below.  

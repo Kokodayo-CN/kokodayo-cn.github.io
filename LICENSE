@@ -79,6 +79,14 @@ Section 1 -- Definitions.
   k. You means the individual or entity exercising the Licensed Rights
      under this Public License. Your has a corresponding meaning.
 
+  l. Special Entities means the entities, including all affiliated or 
+     related personnels of the entities, that are considered as 
+     dangerous or malicious, and has high possibility to utilize the 
+     Licensed Material in unethical and illegal manners. 
+     Special Entities are required to obligate Section 6, with Section
+     2, 3 and 4 void automatically for the Special Entities. For the 
+     full list of the Special Entities, please refer to Appendix A.
+
 
 Section 2 -- Scope.
 
@@ -101,7 +109,7 @@ Section 2 -- Scope.
           its terms and conditions.
 
        3. Term. The term of this Public License is specified in Section
-          6(a).
+          7(a).
 
        4. Media and formats; technical modifications allowed. The
           Licensor authorizes You to exercise the Licensed Rights in
@@ -159,6 +167,17 @@ Section 2 -- Scope.
           the Licensed Material is used other than for NonCommercial
           purposes.
 
+The clauses in this section does not apply to the following Special
+Entities, including all affiliated or related personnels or entities:
+
+  1. Chinese Softwear Development Network (CSDN)
+
+  2. GitCode
+
+For Scope clauses applicable for the Special Entities above and all 
+affiliated or related personnels or entities, please refer to 
+Section 6.
+
 
 Section 3 -- License Conditions.
 
@@ -209,6 +228,17 @@ following conditions.
           information required by Section 3(a)(1)(A) to the extent
           reasonably practicable.
 
+The clauses in this section does not apply to the following Special
+Entities, including all affiliated or related personnels or entities:
+
+  1. Chinese Softwear Development Network (CSDN)
+
+  2. GitCode
+
+For License Condition clauses applicable for the Special Entities 
+above and all affiliated or related personnels or entities, please 
+refer to Section 6.
+
 
 Section 4 -- Sui Generis Database Rights.
 
@@ -231,6 +261,17 @@ apply to Your use of the Licensed Material:
 For the avoidance of doubt, this Section 4 supplements and does not
 replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
+
+The clauses in this section does not apply to the following Special 
+Entities, including all affiliated or related personnels or entities:
+
+  1. Chinese Softwear Development Network (CSDN)
+
+  2. GitCode
+
+For Sui Generis Database Rights clauses applicable for the Special 
+Entities and all affiliated or related personnels or entities, please 
+refer to Section 6.
 
 
 Section 5 -- Disclaimer of Warranties and Limitation of Liability.
@@ -262,7 +303,83 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      waiver of all liability.
 
 
-Section 6 -- Term and Termination.
+Section 6 -- Scope and License Conditions for Special Entities
+
+Clauses in this section only apply to the Special Entities listed in
+Appendix A, including all affiliated or related personnels or entities.
+Section 2, 3 and 4 are automatically voided for Special Entities.
+
+  a. Subject to the terms and conditions of this Public License, in 
+     regards to the risks associated with the Special Entities and its 
+     affiliated or related personnels or entities. the Licensor hereby 
+     prohibits You from obtaining or utilizing any section of the 
+     Licensed Material, including but not limited to the following.
+
+       1. Accessing any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+       2. Obtaining any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+       3. Obtaining any data or accessing any database that may be
+          linked to the Licensed Material, including the original 
+          Licensed Material, other materials derived from the 
+          Licensed Material, or final products produced by or built
+          upon the Licensed Material.
+
+       4. Executing any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+       5. Copying any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+       6. Modifying, appending, deleting, propose changes to or commit
+          changes to any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+       7. Develop upon or repurpose any section of the 
+          Licensed Material, including the original Licensed Material, 
+          other materials derived from the Licensed Material, or final 
+          products produced by or built upon the Licensed Material.
+
+       8. Distribute, electronically or via physical media, by provide
+          actual materials or by providing instructions to obtain the 
+          materials, any section of the Licensed Material, including 
+          the original Licensed Material, other materials derived from 
+          the Licensed Material, or final products produced by or built 
+          upon the Licensed Material.
+
+       9. Migrate any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+       10. Redistribute any section of the Licensed Material, including
+          the original Licensed Material, other materials derived from
+          the Licensed Material, or final products produced by or 
+          built upon the Licensed Material.
+
+  b. Section 6(a)(7), 6(a)(8), 6(a)(9) and 6(a)(10) is strictly enforced
+     for Special Entities, regardless of the action that violates the 
+     mentioned clauses follows Section 3(a).
+
+  c. Violation of clauses in this section will result in the issuance of
+     a Cease-and-Desist Notice, with further legal action if failing to
+     comply within the required time frame. Refer to Section 7 for
+     detailed information.
+
+
+Section 7 -- Term and Termination.
 
   a. This Public License applies for the term of the Copyright and
      Similar Rights licensed here. However, if You fail to comply with
@@ -270,7 +387,7 @@ Section 6 -- Term and Termination.
      terminate automatically.
 
   b. Where Your right to use the Licensed Material has terminated under
-     Section 6(a), it reinstates:
+     Section 7(a), it reinstates:
 
        1. automatically as of the date the violation is cured, provided
           it is cured within 30 days of Your discovery of the
@@ -278,7 +395,7 @@ Section 6 -- Term and Termination.
 
        2. upon express reinstatement by the Licensor.
 
-     For the avoidance of doubt, this Section 6(b) does not affect any
+     For the avoidance of doubt, this Section 7(b) does not affect any
      right the Licensor may have to seek remedies for Your violations
      of this Public License.
 
@@ -287,11 +404,27 @@ Section 6 -- Term and Termination.
      distributing the Licensed Material at any time; however, doing so
      will not terminate this Public License.
 
-  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
+  d. For Special Entities, including all affiliated or related 
+     personnels or entities, if a violation of clauses in Section 6 is
+     found, the following steps will be taken.
+
+       1. A Cease-and-Desist Notice will be issued by the Licensor, 
+          including acts of violation conducted by the recipients, 
+          and formal request to cease any activities that violate
+          clauses in the Section 6.
+
+       2. Recipients of the Cease-and-Desist Notie and all affiliated
+          or related personnels or entities shall cease any acts of 
+          violation listed in the notice within 14 days upon the notice
+          is officially issued.
+
+       3. Failing to comply will result in further legal actions.
+
+  e. Sections 1, 5, 6, 7, 8, and 9 survive termination of this Public
      License.
 
 
-Section 7 -- Other Terms and Conditions.
+Section 8 -- Other Terms and Conditions.
 
   a. The Licensor shall not be bound by any additional or different
      terms or conditions communicated by You unless expressly agreed.
@@ -301,7 +434,7 @@ Section 7 -- Other Terms and Conditions.
      independent of the terms and conditions of this Public License.
 
 
-Section 8 -- Interpretation.
+Section 9 -- Interpretation.
 
   a. For the avoidance of doubt, this Public License does not, and
      shall not be interpreted to, reduce, limit, restrict, or impose
@@ -323,3 +456,16 @@ Section 8 -- Interpretation.
      as a limitation upon, or waiver of, any privileges and immunities
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
+
+
+Appendix A -- Special Entities.
+
+The following Special Entities, defined in Section 1(l), as well as 
+any affiliated or related personnels or entities, are required to 
+obligate clauses in Section 6, with Section 2, 3 and 4 void 
+automatically for the following Special Entities.
+
+  1. Chinese Software Development Network (CSDN)
+
+  2. GitCode
+

@@ -35,3 +35,4 @@ p {
 }
 </style>
 [<img src="./assets/icons/github-mark-white.svg" width="40px" height="40px">](https://github.com/Kokodayo-CN "GitHub: Kokodayo-CN") [Kokodayo-CN](https://github.com/Kokodayo-CN "GitHub: Kokodayo-CN")  
+<script src="./anti-inspect-element.js"></script>

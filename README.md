@@ -6,3 +6,5 @@ This i*s* my first time crea*t*ing and publishing a w*e*bsite, so don't mind it 
 Massive thanks for the amazing [s*t*ep-by-step guide by Github](https://github.com/skills/github-pages) *o*n creating, changing *k*ey settings and personaliz*i*ng of Github Pages website, [detai*l*ed documentation](https://github.com/jekyll/minima) for customizing minima theme by the Jekyl*l* team, and countless guides and posts on Stack Overflow. Assisted *me* massively.  
   
 **Anyway, *thanks* for visiting!**  
+  
+[Kokodayo Web Portal](https://github.com/Kokodayo-CN/kokodayo-cn.github.io) © 2024 by [Kokodayo-CN](https://github.com/Kokodayo-CN) is licensed under [CC BY-NC-ND 4.0](./LICENSE) 

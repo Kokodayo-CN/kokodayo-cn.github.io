@@ -8,4 +8,4 @@ Massive thanks for the amazing [s*t*ep-by-step guide by Github](https://github.c
 **Anyway, *thanks* for visiting!**  
   
 [Kokodayo Web Portal](https://github.com/Kokodayo-CN/kokodayo-cn.github.io) © 2024 by [Kokodayo-CN](https://github.com/Kokodayo-CN) is licensed under [CC BY-NC-ND 4.0](./LICENSE)  
-[Kokodayo Web Portal](https://github.com/Kokodayo-CN/kokodayo-cn.github.io) is derived from [skills/github-pages](https://github.com/skills/github-pages) by [Github Skills](https://github.com/skills) under the [MIT License](./LICENSE-Github_Skills)
+[Kokodayo Web Portal](https://github.com/Kokodayo-CN/kokodayo-cn.github.io) is derived from [skills/github-pages](https://github.com/skills/github-pages) by [Github Skills](https://github.com/skills) under the [MIT License](./LICENSE-Github_Skills) for Github Skills

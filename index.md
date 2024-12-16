@@ -3,13 +3,13 @@ title: Welcome!
 ---
 This is the personal web portal for Kokodayo.  
 For more information, please access the social media links below.  
-<table style="width:100%"><tbody>
+<table style="width:99.9%"><tbody>
   <tr>
-    <td style="width:50%"><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a>
+    <td style="width:33.3%"><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a>
     </td>
-    <td style="width:50%"><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a>
+    <td style="width:33.3%"><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a>
     </td>
-    <td><a herf="https://reddit.kokodayo.us"><img src="./assets/icons/reddit.svg" width="40px" height="40px"></a> <a herf="https://reddit.kokodayo.us">u/Smith_ZHOU</a>
+    <td style="width:33.3%"><a herf="https://reddit.kokodayo.us"><img src="./assets/icons/reddit.svg" width="40px" height="40px"></a> <a herf="https://reddit.kokodayo.us">u/Smith_ZHOU</a>
     </td>
   </tr>
   <tr>

@@ -3,11 +3,11 @@ title: Welcome!
 ---
 This is the personal web portal for Kokodayo.  
 For more information, please access the social media links below.  
-<table><tbody>
+<table style="width:100%"><tbody>
   <tr>
-    <td><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a>
+    <td style="width:50%"><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a>
     </td>
-    <td><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a>
+    <td style="width:50%"><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a>
     </td>
   </tr>
   <tr>

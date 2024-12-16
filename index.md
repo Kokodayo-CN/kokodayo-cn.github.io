@@ -14,8 +14,8 @@ For more information, please access the social media links below.
 </style>
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-c3ow"><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a></td>
-    <td class="tg-c3ow"><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a></td>
+    <td style="width:50%" class="tg-c3ow"><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a></td>
+    <td style="width:50%" class="tg-c3ow"><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a herf="https://bilibili.kokodayo.us"><img src="./assets/icons/bilibili.svg" width="40px" height="40px"></a> <a herf="https://bilibili.kokodayo.us">Kokodayo-desu</a></td>

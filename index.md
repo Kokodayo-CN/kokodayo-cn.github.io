@@ -15,7 +15,7 @@ For more information, please access the social media links below.
   <tr>
     <td><a herf="https://bilibili.kokodayo.us"><img src="./assets/icons/bilibili.svg" width="40px" height="40px"></a> <a herf="https://bilibili.kokodayo.us">Koko&#8209;desu</a>
     </td>
-    <td><a herf="http://youtube.kokodayo.us"><img src="./assets/icons/youtube.svg" width="40px" height="40px"></a> <a herf ="http://youtube.kokodayo.us">Kokodayo CN</a>
+    <td><a herf="http://youtube.kokodayo.us"><img src="./assets/icons/youtube.svg" width="40px" height="40px"></a> <a herf ="http://youtube.kokodayo.us">Kokodayo&NoBreak;CN</a>
     </td>
     <td><a herf="https://github.kokodayo.us"><img src="./assets/icons/github-mark-white.svg" width="40px" height="40px"></a> <a herf="https://github.kokodayo.us">Kokodayo&#8209;CN</a>
     </td>

@@ -3,10 +3,9 @@ title: Welcome!
 ---
 This is the personal web portal for Kokodayo.  
 For more information, please access the social media links below.  
-<nav>
 <table style="width:99.9%"><tbody>
   <tr>
-    <td style="width:33.3%"><a herf="https://twitter.kokodayo.us" p class="nav_options"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></p></a> <a herf="https://x.kokodayo.us" p class="nav_options"><img src="./assets/icons/x.svg" width="40px" height="40px"></p></a> <a herf="https://twitter.kokodayo.us" p class="nav_options">@KokodayoCN</p></a>
+    <td style="width:33.3%"><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a> <a herf="https://x.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a>
     </td>
     <td style="width:33.3%"><a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a>
     </td>
@@ -23,5 +22,4 @@ For more information, please access the social media links below.
   </tr>
 </tbody>
 </table>
-</nav>
 <script src="./anti-inspect-element.js"></script>

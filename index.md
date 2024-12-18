@@ -5,8 +5,8 @@ This is the personal web portal for Kokodayo.
 For more information, please access the social media links below.  
 <table style="width:99.9%"><tbody>
   <tr>
-    <td style="width:33.3%">
-      <a herf="https://twitter.kokodayo.us"><img src="./assets/icons/twitter.svg" width="40px" height="40px"></a><a herf="https://twitter.kokodayo.us"><img src="./assets/icons/x.svg" width="40px" height="40px"></a> <a herf="https://twitter.kokodayo.us">@KokodayoCN</a>
+    <td class="clickable" style="width:33.3%" data-herf="https://twitter.kokodayo.us">
+      <img src="./assets/icons/twitter.svg" width="40px" height="40px"><img src="./assets/icons/x.svg" width="40px" height="40px"> @KokodayoCN
     </td>
     <td style="width:33.3%">
       <a herf="https://bluesky.kokodayo.us"><img src="./assets/icons/bsky.svg" width="40px" height="40px"></a> <a herf="https://bluesky.kokodayo.us">@kokodayo.us</a>

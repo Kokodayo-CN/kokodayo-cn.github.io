@@ -11,4 +11,3 @@ minima:
 author: Kokodayo
 plugins:
   - jekyll-feed
-exclude: ["_posts"]

@@ -11,3 +11,6 @@ minima:
 author: Kokodayo
 plugins:
   - jekyll-feed
+
+exclude:
+  - anti-inspect-element.js

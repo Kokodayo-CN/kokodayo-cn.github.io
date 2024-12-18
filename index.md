@@ -8,7 +8,7 @@ For more information, please access the social media links below.
     <td style="width:33.3%">
       <a herf="https://twitter.kokodayo.us">
         <div style="height:100%;width:100%">
-          <img src="./assets/icons/twitter.svg" width="40px" height="40px"><img src="./assets/icons/x.svg" width="40px" height="40px">@KokodayoCN
+          <img src="./assets/icons/twitter.svg" width="40px" height="40px"><img src="./assets/icons/x.svg" width="40px" height="40px"> @KokodayoCN
         </div>
       </a>
     </td>

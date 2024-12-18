@@ -29,3 +29,8 @@ For more information, please access the social media links below.
 </tbody>
 </table>
 <script src="./anti-inspect-element.js"></script>
+<script type="text/javascript">
+     $(".clickable").click(function(){
+           window.location = $(this).data("href");
+     });
+</script>

@@ -11,4 +11,4 @@ minima:
 author: Kokodayo
 plugins:
   - jekyll-feed
-# markdown: GFM
+markdown: GFM

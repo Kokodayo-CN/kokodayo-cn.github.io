@@ -10,7 +10,7 @@ For more information, please access the social media links below.
 <br>
 <center>
   <a herf="http://192.168.0.101:8123">
-    <img src="./assets/icons/hass-local.png" width="500px" height="125px">
+    <img src="./assets/icons/hass-local.png" width="200px" height="50px">
   </a>
 </center>
 <!-- <script src="./anti-inspect-element.js"></script> -->

@@ -10,5 +10,5 @@ For more information, please access the social media links below.
   
 |[<img src="./assets/icons/hass-local.png" width="280px" height="70px">](http://192.168.0.101:8123)|
 |:---:|
-|**[<img src="./assets/icons/hass-remote.png" width="280px" height="70px">](https://www.kokodayo.us/404.html)**|
+|**[<img src="./assets/icons/hass-remote.png" width="280px" height="70px">](https://hass.kokodayo.us)**|
 <!-- <script src="./anti-inspect-element.js"></script> -->
